@@ -53,4 +53,4 @@ VAL 2
 so we use this code:
 
 >length(idaho$VAL[!is.na(idaho$VAL) & idaho$VAL==24])
-Answer: 53
+##Answer: 53
